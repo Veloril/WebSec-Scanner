@@ -41,12 +41,15 @@ The scanner follows these principles:
 - requests
 
 ### Installation
-git clone 
-
+```bash
+git clone https://github.com/veloril/websec-scanner.git
+```
+```bash
 pip install -r requirements.txt
-
+```
+```bash
 python main.py
-
+```
 ## Project Structure
 
 ```text
